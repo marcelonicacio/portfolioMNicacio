@@ -28,8 +28,7 @@ li:hover {
 
 form button {
   width: 80px;
-
-background-color: black !important;
+  background-color: black !important;
   color: white;
   font-weight: bold;
   margin-bottom: 8px;
@@ -48,6 +47,7 @@ label {
 .layout {
   background-color: #ff5943;
 }
+
 
 .amarelo {
   background-color: #e8d027;
@@ -69,4 +69,8 @@ label {
   .text-shadow-none {
     text-shadow: none;
   }
+}
+
+img {
+  height: 220px;
 }
